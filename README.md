@@ -1,2 +1,2 @@
 # tmux-conf
-tm
+tmux.conf modified from samoshkin
